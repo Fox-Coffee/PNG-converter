@@ -1,1 +1,1 @@
-A simple program which converts all images in the images folder from WEBP or JPG format, into PNGs
+A simple program which converts all images in the images folder from WEBP or JPG format, into PNGs. Put the image in the JPG or WEBP format into the `images` folder, and run the program in order to convert the images
